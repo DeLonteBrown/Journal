@@ -1,5 +1,6 @@
 # Journal
 Summarize the project and what problem it was solving.
+
 -I choose the last project since its the freshest in my mind. The biggest problem I had with this project was more with time, though this project was very fun and challenging in some aspsects as I think I recoded the program roughly 4 to 5 times with only the realizing by the 3 time I did not read the directions properly to understanding as I did not originally have the the Class identified and was coding everything in the int main(). This project focused on the code reading information from a file and outputting the amount of times a list of words appeared as a histogram or count the amount of times it appears. 
 
 What did you do particularly well?
